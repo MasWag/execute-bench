@@ -1,0 +1,13 @@
+*.o
+
+*.hi
+
+*~
+
+
+hello-c
+hello-cc
+hello-c-static
+hello-cc-static
+hello-hs
+hello-rs
